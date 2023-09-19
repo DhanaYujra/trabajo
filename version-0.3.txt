@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Venta de Casas - Mi Casa Ideal</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Enlace a tu hoja de estilos CSS -->
+</head>
+<body>
+    <header>
+        <h1>Mi Casa Ideal</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Inicio</a></li>
+                <li><a href="#">Casas en Venta</a></li>
+                <li><a href="#">Contáctanos</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <main>
+        <section>
+            <h2>Nuestras Propiedades en Venta</h2>
+            <ul>
+                <li>
+                    <img src="casa1.jpg" alt="Casa 1">
+                    <h3>Casa Moderna en el Centro</h3>
+                    <p>Amplia casa moderna con 3 habitaciones y jardín. Precio: $250,000.</p>
+                    <a href="#">Ver Detalles</a>
+                </li>
+                <li>
+                    <img src="casa2.jpg" alt="Casa 2">
+                    <h3>Chalet con Vista al Mar</h3>
+                    <p>Hermoso chalet con vista al mar, piscina y terraza. Precio: $

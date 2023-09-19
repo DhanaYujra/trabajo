@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="NAVAS" content="width=device-width, initial-scale=1.0">
+    <title>Mi Página Web</title>
+    <!-- https://NAVAS.com -->
+</head>
+<body>
+    <header>
+        <h1>Bienvenido a Mi Página Web</h1>
+            
+    <nav>
+        <!-- Información
+		¿Quienes somos?
+			Terrenos disponibles
+				Costos -->
+    </nav>
+
+    <main>
+        <section>
+            <h2>Sección 1</h2>
+            <p>Este es el contenido de la primera sección de la página.</p>
+        </section>
+        
+        <section>
+            <h2>Sección 2</h2>
+            <p>Este es el contenido de la segunda sección de la página.</p>
+        </section>
+    </main>
+
+    <aside>
+        <!-- Cumpliendo con tus espectativas -->
+    </aside>
+
+    <footer>
+        <!-- Comunicate con nosotros: 900000000 -->
+    </footer>
+</body>
+</html>

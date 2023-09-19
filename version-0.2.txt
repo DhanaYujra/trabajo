@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Mi Bloc de Notas Web</title>
+</head>
+<body>
+    <header>
+        <h1>Bienvenido a NAVAS en Línea</h1>
+    </header>
+    
+    <nav>
+        <ul>
+            <li><a href="#">Inicio</a></li>
+            <li><a href="#">Notas</a></li>
+            <li><a href="#">Configuración</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <section>
+            <h2>Notas Pendientes</h2>
+            <ul>
+                <li>Comprar tu terreno hoy.</li>
+                <li>Preparar la casa soñada.</li>
+                <li>Llamanos y separa tu lugar.</li>
+            </ul>
+        </section>
+        
+        <section>
+            <h2>Ideas para el Blog</h2>
+            <ul>
+                <li>Redactar un artículo sobre consejos de viaje.</li>
+                <li>Investigar tendencias en marketing digital.</li>
+                <li>Entrevistar a un experto en tecnología.</li>
+            </ul>
+        </section>
+    </main>
+
+    <aside>
+        <h2>Recordatorios</h2>
+        <p>Reunión de equipo el miércoles a las 3 PM.</p>
+        <p>Pago de la factura de electricidad el 20 de este mes.</p>
+    </aside>
+
+    <footer>
+        <p>Derechos de autor &copy; 2023 Mi Bloc de Notas en Línea</p>
+    </footer>
+</body>
+</html>

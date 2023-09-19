@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inmobiliaria NAVAS - Ventas Inmobiliarias</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Enlace a tu hoja de estilos CSS -->
+</head>
+<body>
+    <header>
+        <h1>Inmobiliaria NAVAS</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Inicio</a></li>
+                <li><a href="#">Propiedades en Venta</a></li>
+                <li><a href="#">Contáctanos</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <main>
+        <section>
+            <h2>Propiedades Destacadas</h2>
+            <ul>
+                <li>
+                    <img src="casa1.jpg" alt="Casa 1">
+                    <h3>Casa Moderna en el Centro</h3>
+                    <p>Amplia casa moderna con 3 habitaciones y jardín. Precio: $250,000.</p>
+                    <a href="#">Ver Detalles</a>
+                </li>
+                <li>
+                    <img src="casa2.jpg" alt="Casa 2">
+                    <h3>Chalet con Vista al Mar</h3>
+                    <p>Hermoso chalet con vista al mar, piscina y terraza. Precio: $400,000.</p>
+                    <a href="#">Ver Detalles</a>
+                </li>
+                <!-- Agrega más propiedades aquí -->
+            </ul>
+        </section>
+        
+        <section>
+            <h2>Contacto</h2>
+            <p>¿Interesado en alguna propiedad? ¡Contáctanos!</p>
+            <form>
+                <label for="nombre">Nombre:</label>
+                <input type="text" id="nombre" name="nombre" required>
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required>
+                <label for="mensaje">Mensaje:</label>
+                <textarea id="mensaje" name="mensaje" rows="4" required></textarea>
+                <button type="submit">Enviar</button>
+            </form>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 Inmobiliaria NAVAS - Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
